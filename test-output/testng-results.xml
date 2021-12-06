@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-03T11:17:15 IST" name="Default suite" finished-at="2021-12-03T11:17:19 IST" duration-ms="4307">
+    <groups>
+    </groups>
+    <test started-at="2021-12-03T11:17:15 IST" name="Default test" finished-at="2021-12-03T11:17:19 IST" duration-ms="4307">
+      <class name="_1_Scripts._1_Open_Firefox_Browser">
+        <test-method signature="OpenBrowser()[pri:0, instance:_1_Scripts._1_Open_Firefox_Browser@34f7cfd9]" started-at="2021-12-03T11:17:15 IST" name="OpenBrowser" finished-at="2021-12-03T11:17:19 IST" duration-ms="4278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+      </class> <!-- _1_Scripts._1_Open_Firefox_Browser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
